@@ -63,7 +63,7 @@ An automated reporting engine that takes raw performance and finance workbooks (
 - **AI-assisted insight generation** that turns raw numbers into written performance commentary for leadership.
 - Multiple visual themes and **one-click PDF export** for distribution.
 
-**Tech:** Python · Google Apps Script · Excel data processing · HTML/CSS · LLM API for insight generation
+**Tech:** Claude · Prompting ·  LLM API for insight generation
 
 ---
 
@@ -79,7 +79,7 @@ A suite of interactive dashboards that let national leadership and local teams e
 - Visualizes current-quarter performance across all **11 entities** and across the XDI / MDI / HDI pillars.
 - Surfaces KPI cards, comparative charts, and standings at a glance.
 
-**Tech:** Chart.js · HTML/CSS/JavaScript · structured data pipelines
+**Tech:** Google Data Studio, Google Sheets
 
 ---
 
@@ -92,7 +92,7 @@ A platform designed to raise the data capability of the whole organization, so p
 - A **structured data-competency curriculum** progressing from data literacy → dashboard interpretation → data strategy.
 - Centralizes knowledge sharing and reporting best practice across all entities.
 
-**Tech:** Python · LLM API / AI agent framework · web front-end
+**Tech:** Promting · LLM API / AI agent framework · web front-end
 
 ---
 
@@ -102,8 +102,8 @@ A platform designed to raise the data capability of the whole organization, so p
 |----------|-------|
 | Automation & pipelines | Google Apps Script, APIs, Python |
 | Data processing | Python, Excel/CSV processing, ETL |
-| Visualization | Chart.js, HTML/CSS/JS, dashboard design |
-| AI / insight generation | LLM APIs, prompt engineering, AI agents |
+| Visualization | Google Data Studio, dashboard design |
+| AI / insight generation | LLM APIs, prompt engineering, AI agents (Claude) |
 | Delivery | PDF export, web deployment |
 
 ---
